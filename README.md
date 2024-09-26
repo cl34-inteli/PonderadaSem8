@@ -1,3 +1,10 @@
-# Mean-Variance-Standard Deviation Calculator
+# Ponderada Semana 01 | Entrega Semana 08
 
-This is the boilerplate for the Mean-Variance-Standard Deviation Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
+Esse repositório armazena todos os cinco projetos realizados na plataforma freeCodeCamp dividido cada um por pastas. Os projetos foram resolvidos na seguinte ordem:
+- Mean-Variance-Standard Deviation Calculator
+- Demographic Data Analyzer
+- Medical Data Visualizer
+- Page View Time Series Visualizer
+- Sea Level Predictor
+
+Além desse repositório, é possível acessar os porjetos em repositórios próprios.
